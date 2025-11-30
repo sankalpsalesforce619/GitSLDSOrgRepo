@@ -1,8 +1,10 @@
 # Salesforce Developer Portfolio & Org Repository
 
 ## 👤 Author
-**Sankalp Lokhande** Salesforce Developer | PD1 Certified | B.Tech (Electrical Engineering)  
-[LinkedIn Profile](https://linkedin.com/in/sankalp08) | [Email Me](mailto:sankalpsalesforce619@gmail.com)
+**Sankalp Lokhande** Salesforce Developer | PD1 Certified | B.Tech 
+**Email:** sankalpsalesforce619@gmail.com  
+**Phone:** +91 7350106498  
+[LinkedIn Profile](https://linkedin.com/in/sankalp08)
 
 ---
 
