@@ -1,0 +1,21 @@
+<template>
+    <lightning-card title="conditional Rendering">
+       <div class="slds-m-aroun_medium">
+       <lightning-input type="checkbox" label="Show Details" onclick={handelChange}></lightning-input>
+
+       <template if:true={areDetailsVisibal}>
+        <div class="slds-m-vertical_medium">
+            This is true block!
+        </div>
+       </template>
+       <template if:false={areDetailsVisibal}>
+        <div class="slds-m-vertical_medium">
+            This is false block!
+        </div>
+       </template>
+
+     
+
+       </div>
+    </lightning-card>
+</template>
