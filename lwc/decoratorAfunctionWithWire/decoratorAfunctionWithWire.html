@@ -1,0 +1,25 @@
+<template>
+    <lightning-card title="Record Preview" icon-name="standard:record">
+        <template if:true={record}>
+            <div class="slds-m-around_medium">
+                <p class="slds-text-title_caps">Name</p>
+                <p class="slds-text-heading_small slds-m-bottom_medium">{name}</p>
+
+          
+            </div>
+        </template>
+
+        <template if:true={error}>
+            <div class="slds-m-around_medium slds-text-color_error">
+                <p>Error loading record</p>
+              
+            </div>
+        </template>
+
+        <template if:true={recordId}>
+            <div slot="footer" class="slds-text-body_small slds-p-horizontal_small">
+                Record Id: {recordId}
+            </div>
+        </template>
+    </lightning-card>
+</template>

@@ -1,0 +1,11 @@
+.myNewstylingforbotton{
+
+  --slds-c-button-brand-color-background: #db3f1c;
+  --slds-c-button-brand-color-border: #d53d1b;
+}
+
+.myNewstylingforBadge{
+ 
+  --slds-c-badge-color-background: #23b031;
+  --slds-c-badge-text-color: #ffffff;
+}

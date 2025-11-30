@@ -1,0 +1,9 @@
+c-todo-item{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+:host{
+     text-align: center;
+   
+}
