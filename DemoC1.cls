@@ -16,7 +16,7 @@ public class DemoC1 {
         sub = num1 - num2;
         System.debug('sub is ='+ sub);
         
-        System.debug("chek with git 1");
+        System.debug("chek with git 2");
 
     }
 }
